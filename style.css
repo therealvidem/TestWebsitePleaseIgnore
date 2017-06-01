@@ -6,8 +6,9 @@ body {
   padding-bottom: 200px;
 }
 #left {
-  direction: ltr;
+  display: inline;
 }
 #right {
-  direction: rtl; 
+  display: inline;
+  text-align: right; 
 }
