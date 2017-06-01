@@ -10,5 +10,6 @@ body {
 }
 #right {
   display: inline;
-  text-align: right; 
+  width: 20em;
+  float: right;
 }
