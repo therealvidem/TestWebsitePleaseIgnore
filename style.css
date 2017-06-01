@@ -5,3 +5,9 @@ body {
 #top {
   padding-bottom: 200px;
 }
+#left {
+  text-align: left;
+}
+#right {
+  text-align: right; 
+}
