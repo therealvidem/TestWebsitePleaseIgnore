@@ -12,6 +12,7 @@ body {
   display: inline;
   width: 50px;
   float: right;
+  text-align: left;
 }
 a:link {
   color: white;  
