@@ -10,9 +10,8 @@ body {
 }
 #right {
   display: inline;
-  width: 50px;
   float: right;
-  text-align: left;
+  left: 50px;
 }
 a:link {
   color: white;  
