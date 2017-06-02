@@ -10,7 +10,7 @@ body {
 }
 #right {
   display: inline;
-  width: 3em;
+  width: 200px;
   float: right;
 }
 a:link {
